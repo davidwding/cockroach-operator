@@ -369,6 +369,8 @@ spec:
               value: cockroachdb/cockroach:v21.1.9
             - name: RELATED_IMAGE_COCKROACH_v21_1_10
               value: cockroachdb/cockroach:v21.1.10
+            - name: RELATED_IMAGE_COCKROACH_v21_1_11
+              value: cockroachdb/cockroach:v21.1.11
           resources:
             requests:
               cpu: 10m
